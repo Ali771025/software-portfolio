@@ -1,0 +1,28 @@
+name: Project inquiry / درخواست همکاری
+description: Share a non-confidential summary of a project you would like to discuss.
+title: "[Project inquiry] "
+body:
+  - type: markdown
+    attributes:
+      value: "This is a public issue. Share only a general summary; never include credentials, private data or confidential documents. / این درخواست عمومی است؛ اطلاعات محرمانه وارد نکنید."
+  - type: textarea
+    id: objective
+    attributes:
+      label: Project objective / هدف پروژه
+      description: What problem should the software solve, and for whom?
+    validations:
+      required: true
+  - type: textarea
+    id: relevant_examples
+    attributes:
+      label: Relevant portfolio examples / نمونه‌کارهای مرتبط
+      description: Link the examples closest to your intended workflow.
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Platforms and constraints / بستر و محدودیت‌ها
+      description: Existing systems, operating systems, local/cloud environment, languages or integration needs.
+  - type: input
+    id: timing
+    attributes:
+      label: Timing / زمان‌بندی موردنظر
