@@ -4,7 +4,7 @@ title: "[Project inquiry] "
 body:
   - type: markdown
     attributes:
-      value: "This is a public issue. Share only a general summary; never include credentials, private data or confidential documents. / این درخواست عمومی است؛ اطلاعات محرمانه وارد نکنید."
+      value: "For private inquiries, email aliomrani916@gmail.com. This is a public issue. Share only a general summary; never include credentials, private data or confidential documents. / این درخواست عمومی است؛ اطلاعات محرمانه وارد نکنید."
   - type: textarea
     id: objective
     attributes:

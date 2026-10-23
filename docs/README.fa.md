@@ -1,5 +1,9 @@
 # نمونه‌کارهای نرم‌افزاری و مهندسی — یوسف عمرانی
 
+**درخواست پروژه:** [aliomrani916@gmail.com](mailto:aliomrani916@gmail.com) · [خدمات و تماس](https://ali771025.github.io/software-portfolio/contact/)
+
+
+
 **توسعه سامانه‌های سازمانی، گردش‌کارهای هوش مصنوعی، پردازش اسناد و اتصال نرم‌افزار به تجهیزات.**
 
 [وب‌سایت نمونه‌کارها](https://ali771025.github.io/software-portfolio/) · [معرفی انگلیسی](../README.md) · [شروع گفت‌وگوی پروژه](https://github.com/Ali771025/software-portfolio/issues/new?template=project-inquiry.yml)

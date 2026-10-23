@@ -2,6 +2,10 @@
 
 # Yosof Omrani · Software & Engineering Portfolio
 
+**Project inquiries:** [aliomrani916@gmail.com](mailto:aliomrani916@gmail.com) · [Services & contact](https://ali771025.github.io/software-portfolio/en/contact/)
+
+
+
 **Business applications, local AI workflows, document automation and hardware integration — source examples for technical review and project collaboration.**
 
 [فارسی](docs/README.fa.md) · [Browse the portfolio website](https://ali771025.github.io/software-portfolio/) · [Discuss a project](https://github.com/Ali771025/software-portfolio/issues/new?template=project-inquiry.yml)
